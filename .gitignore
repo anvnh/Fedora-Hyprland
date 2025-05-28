@@ -1,2 +1,6 @@
 *
 !.gitignore
+!logo.png
+!.config
+!.config/dunst/
+!.config/dunst/**
