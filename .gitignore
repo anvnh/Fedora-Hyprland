@@ -4,3 +4,11 @@
 !.config
 !.config/dunst/
 !.config/dunst/**
+!.config/hyde/
+!.config/hyde/**
+!.config/hypr/
+!.config/hypr/**
+!.config/rofi/
+!.config/rofi/**
+!.config/swaylock/
+!.config/swaylock/**
