@@ -1,6 +1,7 @@
 *
 !.gitignore
 !logo.png
+!README.md
 !.config
 !.config/dunst/
 !.config/dunst/**
