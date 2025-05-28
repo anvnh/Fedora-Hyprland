@@ -1,5 +1,6 @@
 *
 !.gitignore
+!.config/
 !.config/dunst/**
 !.config/hyde/**
 !.config/rofi/**
