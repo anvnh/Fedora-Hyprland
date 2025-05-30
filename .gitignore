@@ -13,3 +13,5 @@
 !.config/rofi/**
 !.config/swaylock/
 !.config/swaylock/**
+!.config/waybar/
+!.config/waybar/**
