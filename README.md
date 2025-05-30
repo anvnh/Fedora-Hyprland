@@ -14,19 +14,28 @@ A simple Fedora Hyprland configuration repository.
 
 Will update soon with a script to automate the installation process.
 
+You can clone this repository and copy the configuration files to your home directory manually:
+
+```bash
+git clone https://github.com/anvnh/Fedora-Hyprland
+cd Fedora-Hyprland
+cp -r .config/* ~/.config/
+```
+
+>[!note]
+> Make sure to backup your existing configuration files before copying the new ones, as this will overwrite them.   
+
 ## Usage
 
 This is a collection of configuration files and scripts for Hyprland on Fedora. 
 To use it, clone the repository and copy the configuration files to your home directory.
 
-## Development setup
+## Dependencies
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+In order to run the install script or clone and copy the configuration to home folder, you need to have the following dependencies installed:
 
-```sh
-make install
-npm test
-```
+- jq
+- ...
 
 ## Release History
 
