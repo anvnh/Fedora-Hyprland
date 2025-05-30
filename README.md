@@ -6,27 +6,18 @@
     <br>
 </h1>
 
-Hyprland Fedora Config is a curated repository containing configuration files and scripts tailored for running the Hyprland dynamic tiling Wayland compositor on Fedora Linux. This setup streamlines the installation and customization process, providing users with an optimized, visually appealing, and highly functional desktop environment out of the box. Whether you're new to Hyprland or seeking a ready-to-use Fedora workflow, this repo helps you get started quickly and efficiently.
+A simple Fedora Hyprland configuration repository.
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](
 
 ## Installation
 
-OS X & Linux:
+Will update soon with a script to automate the installation process.
 
-```sh
-npm install my-crazy-module --save
-```
+## Usage
 
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
+This is a collection of configuration files and scripts for Hyprland on Fedora. 
+To use it, clone the repository and copy the configuration files to your home directory.
 
 ## Development setup
 
@@ -39,39 +30,21 @@ npm test
 
 ## Release History
 
-* 0.2.1
-* CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-* CHANGE: Remove `setDefaultXYZ()`
-* ADD: Add `init()`
-* 0.1.1
-* FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-* The first proper release
-* CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-* Work in progress
+* 1.0.0
+* CHANGE: Update docs and update repo (module code remains unchanged)
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+anvnh – anvo20052@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[Repo](https://github.com/anvnh/Fedora-Hyprland)
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/anvnh/Fedora-Hyprland/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
