@@ -8,7 +8,7 @@
 
 A simple Fedora Hyprland configuration repository.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Installation
 
