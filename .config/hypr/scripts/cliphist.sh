@@ -275,6 +275,3 @@ case "${main_action}" in
     exit 1
     ;;
 esac
-
-
-

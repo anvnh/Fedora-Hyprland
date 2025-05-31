@@ -8,7 +8,7 @@ color=6272A4
 font="JetBrains Mono Nerd Font"
 
 indicator
-indicator-radius=200
+indicator-radius=300
 indicator-thickness=20
 
 line-color=00000000
@@ -47,7 +47,7 @@ grace-no-mouse
 grace-no-touch
 datestr=%a, %B %e
 timestr=%I:%M %p
-fade-in=0.1
+fade-in=0.5
 ignore-empty-password
 
 separator-color=00000000
