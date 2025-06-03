@@ -15,6 +15,11 @@
 !.config/swaylock/**
 !.config/waybar/
 !.config/waybar/**
+!.config/sddm
+!.config/sddm/**
 !assets/
 !assets/**
 .config/hypr/wallpapers/Eiu01.jpg
+!install_fedora.sh
+!scripts/
+!scripts/**
